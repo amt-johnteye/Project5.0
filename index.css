@@ -1,0 +1,17 @@
+div ul {
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 800;
+}
+
+div {
+  background-color: blueviolet;
+}
+div h2 {
+  color: white;
+}
+div ul {
+  color: white;
+}
+
+/*# sourceMappingURL=index.css.map */
