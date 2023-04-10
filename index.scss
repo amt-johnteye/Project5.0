@@ -2,13 +2,15 @@ $color: black;
 
 
 div{
-    background-color: green;
+    background-color: darkcyan;
 
     h2{
-        color: $color;
+        background-color: $color;
+        color: white;
     }
     ul{
-        color: $color;
+        background-color: $color;
+        color: white;
         
     }
 }
